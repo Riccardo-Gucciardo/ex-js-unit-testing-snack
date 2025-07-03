@@ -1,4 +1,4 @@
-const {getInitials} = require("./testiniziali")
+const {getInitials} = require("../function/testiniziali")
 
 
 test('dovrebbe restituire le iniziali corrette per un nome e cognome', () => {
